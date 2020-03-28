@@ -7,7 +7,7 @@ CHIP8 implemented in embedded systems
 * Adafruit_SSD1306 
 * Keypad by Mark Stanley
 
-### Software
+### Software:
 PlatformIO IDE
 
 ## Current Boards Implemented
