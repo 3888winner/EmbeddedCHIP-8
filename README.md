@@ -1,6 +1,6 @@
 # EmbeddedCHIP-8
 CHIP8 implemented in embedded systems.
-My C++ Emulator: https://github.com/3888winner/CHIP8
+My C++ Implementation: https://github.com/3888winner/CHIP8
 
 ## Requirements
 ### Libraries:
